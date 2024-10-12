@@ -148,7 +148,7 @@ if __name__ == "__main__":
             console.print("[bold][cyan](01):[/cyan] [green]Increase Money ~ 500[/green]")
             console.print("[bold][cyan](02):[/cyan] [green]Increase Coins ~ 1500[/green]")
             console.print("[bold][cyan](03):[/cyan] [green]King Rank ~ 400[/green]")
-            console.print("[bold][cyan](04):[/cyan] [green]Change ID ~ 600[/green]")
+            console.print("[bold][cyan](04):[/cyan] [green]Change ID ~ 200[/green]")
             console.print("[bold][cyan](05):[/cyan] [green]Change Name ~ 100[/green]")
             console.print("[bold][cyan](06):[/cyan] [green]Change Name (Rainbow) ~ 100[/green]")
             console.print("[bold][cyan](07):[/cyan] [green]Number Plates ~ 500[/green]")
